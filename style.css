@@ -1001,5 +1001,6 @@ background-clip: border-box;
   font-weight: 400;
   padding-left: 1rem;
   padding-right: 1rem;
+  cursor: pointer;
   /* -webkit-appearance: button; */
 }
