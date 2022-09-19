@@ -1153,7 +1153,7 @@ background-clip: border-box;
 .animate-fadeinup .bx {
     font-style: normal;
     /* font-weight: 900; */
-    font-size:23px;
+    font-size:22px;
     color: #f7b27b;
     font-weight: normal;
     font-variant: normal;
@@ -1163,26 +1163,36 @@ background-clip: border-box;
 }
 .animate-fadeinup .fb:hover {
     background: #4267B2;
+    border: none;
+    outline: none;
     color: #ffffff;
     border-radius: 25px;
 }
 .animate-fadeinup .wh:hover {
     background: #25D366;
+    border: none;
+    outline: none;
     color: #ffffff;
     border-radius: 25px;
 }
 .animate-fadeinup .tw:hover {
     background: #00acee;
+    border: none;
+    outline: none;
     color: #ffffff;
     border-radius: 25px;
 }
 .animate-fadeinup .yt:hover {
     background: #FF0000;
+    border: none;
+    outline: none;
     color: #ffffff;
     border-radius: 25px;
 }
 .animate-fadeinup .ig:hover {
     background: #8a3ab9;
+    border: none;
+    outline: none;
     color: #ffffff;
     border-radius: 25px;
 }
